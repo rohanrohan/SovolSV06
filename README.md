@@ -16,7 +16,7 @@ Hardware Mods Required:
 4. Plus you will need an accelerometer tool for plugging in your resonant frequencies. Plese read the docs but here are some videos from Nero3D for help. [Video 1](https://www.youtube.com/watch?v=OoWQUcFimX8) [Video 2](https://www.youtube.com/watch?v=W_VHbT_tsZw&pp=ygURaW5wdXQgc2hhcGVyIHRvb2w%3D)
    Or you can just use the numbers I have and check the results for yourself.
 
-   Make sure you have a clean and mechanically sound machine i.e. tightend fasteners, belts at the correct tension, a good surface for the printer etc.
+   Make sure you have a clean and mechanically sound machine i.e. tightened fasteners, belts at the correct tension, a good surface for the printer etc.
 
    Notify me of any missing credits and I will add them.
 
